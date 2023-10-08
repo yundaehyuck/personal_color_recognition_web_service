@@ -1,18 +1,33 @@
 # personal_color_recognition_web_service
 
-1. node.js backend server
+## my contribution
 
-using express.js
+### 1. node.js backend server(Backend)
 
-python program
+- using express.js
 
-2. BeautyGAN
+- python program
 
-virtual makeup
+### 2. BeautyGAN(AI)
 
-https://github.com/Honlan/BeautyGAN
+- virtual makeup
 
-3. personal color recognition
+- https://github.com/Honlan/BeautyGAN
 
-4-class image classification
 
+### 3. personal color recognition(AI)
+
+
+- 4-class image classification
+
+
+### 4. deploy service using docker(deploy)
+
+
+### 5. frontend debug(frontend)
+
+---
+
+To preserve project code, add frontend code
+
+add service description in guide folder
