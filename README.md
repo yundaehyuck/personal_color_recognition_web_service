@@ -1,5 +1,11 @@
 # personal_color_recognition_web_service
 
+This page is my implementation code page.
+
+## You can see the project description the [links](https://github.com/yundaehyuck/personal_color_recognition_web_service/tree/main/guide 'links')
+
+---
+
 ## my contribution
 
 ### 1. node.js backend server(Backend)
